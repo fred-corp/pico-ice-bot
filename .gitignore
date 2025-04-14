@@ -1,0 +1,7 @@
+.DS_Store
+private
+
+#KiCAD
+*.lck
+*.zip
+*cache*
