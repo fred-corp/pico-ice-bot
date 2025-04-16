@@ -5,3 +5,6 @@ private
 *.lck
 *.zip
 *cache*
+*autosave*
+*saved*
+*round-tracks*
