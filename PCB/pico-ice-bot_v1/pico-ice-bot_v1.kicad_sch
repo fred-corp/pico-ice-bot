@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "97a8e260-813a-4523-b755-702077e1125c")
 	(paper "A4")
+	(title_block
+		(title "Pice ICE Bot")
+		(company "Fred Corp.")
+	)
 	(lib_symbols
 		(symbol "Batteries:12BHC186P1-GR"
 			(pin_numbers

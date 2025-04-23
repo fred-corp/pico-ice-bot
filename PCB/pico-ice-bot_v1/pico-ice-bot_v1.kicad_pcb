@@ -322,7 +322,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 		(layer "F.Cu")
 		(uuid "21194a5a-d556-43e8-bb47-d2fbc7d180c2")
-		(at 171.12 90.21)
+		(at 171.15 86.9875)
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U3"
@@ -4798,7 +4798,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d9ff70fc-df26-432d-bc01-2f3335a4242e")
-		(at 182.69 88.305)
+		(at 197.4 119.35)
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "SW1"
